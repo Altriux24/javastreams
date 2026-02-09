@@ -1,2 +1,2 @@
-# javastreams
-Ejercicios de streams con csv y xml
+#Uso del Api Stream de java
+Ejercicios de streams con csv y xml.
