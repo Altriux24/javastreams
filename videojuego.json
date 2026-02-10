@@ -1,0 +1,65 @@
+[
+  {
+    "perfil": {
+      "id": 10294,
+      "nickname": "Centurion",
+      "nivel": 15,
+      "experiencia": 24520,
+      "online": true,
+      "vida": 100,
+      "clase": "Guerrero" 
+    },
+
+    "inventario":{
+      "itemId": "amu_021",
+      "nombre": "Amuleto del Viajero",
+      "atributos": [15,5]
+    },
+
+    "estadisticas": {
+      "enemigosDerrotados": 54,
+      "muertes": 25,
+      "tiempoJugadoHoras": 58.4
+    },
+
+    "ultimaConexion": "2026-02-09T22:18:44"
+  },
+
+  {
+    "perfil":{
+      "id": 20145,
+      "nickname": "Hades",
+      "nivel": 87,
+      "experiencia": 111520,
+      "online": false,
+      "vida": 500,
+      "clase": "Paladin"
+    },
+
+    "inventario":[
+      {
+        "itemId": "esp_001",
+        "nombre": "Espada de Titanio",
+		"atributos": [1]
+      },
+      {
+        "itemId": "arm_014",
+        "nombre": "Armadura Dragón",
+		"atributos": [20,5,7,8,9]
+      },
+      {
+        "itemId": "pot_003",
+        "nombre": "Poción de Vida"
+      }
+    ],
+
+    "estadisticas": {
+      "enemigosDerrotados": 438,
+      "muertes": 9,
+      "tiempoJugadoHoras": 342.6
+    },
+
+    "ultimaConexion": "2007-12-03T10:15:30"
+  }
+]
+

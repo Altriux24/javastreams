@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jugadores>
+    <jugador>
+        <perfil id="10294" Nickname="Centurion" Nivel="15" Clase="Guerrero">
+            <Experiencia>24520</Experiencia>
+            <Online>true</Online>
+            <Vida>100</Vida>
+        </perfil>
+        <inventarios>
+            <inventario>
+                <ItemId>amu_021</ItemId>
+                <Nombre>Amuleto del Viajero</Nombre>
+                <Atributos>
+                    <Atributo>15</Atributo>
+                    <Atributo>5</Atributo>
+                </Atributos>
+            </inventario>
+        </inventarios>
+        <estadisticas>
+            <EnemigosDerrotados>54</EnemigosDerrotados>
+            <Muerte>0</Muerte>
+            <TiempoJugadoHoras>58.4</TiempoJugadoHoras>
+        </estadisticas>
+        <UltimaConexion>2026-02-09T22:18:44</UltimaConexion>
+    </jugador>
+    <jugador>
+        <perfil id="20145" Nickname="Hades" Nivel="87" Clase="Paladin">
+            <Experiencia>111520</Experiencia>
+            <Online>false</Online>
+            <Vida>500</Vida>
+        </perfil>
+        <inventarios>
+            <inventario>
+                <ItemId>esp_001</ItemId>
+                <Nombre>Espada de Titanio</Nombre>
+                <Atributos>
+                    <Atributo>1</Atributo>
+                </Atributos>
+            </inventario>
+            <inventario>
+                <ItemId>arm_014</ItemId>
+                <Nombre>Armadura Dragón</Nombre>
+                <Atributos>
+                    <Atributo>20</Atributo>
+                    <Atributo>5</Atributo>
+                    <Atributo>7</Atributo>
+                    <Atributo>8</Atributo>
+                    <Atributo>9</Atributo>
+                </Atributos>
+            </inventario>
+            <inventario>
+                <ItemId>pot_003</ItemId>
+                <Nombre>Poción de Vida</Nombre>
+            </inventario>
+        </inventarios>
+        <estadisticas>
+            <EnemigosDerrotados>438</EnemigosDerrotados>
+            <Muerte>0</Muerte>
+            <TiempoJugadoHoras>342.6</TiempoJugadoHoras>
+        </estadisticas>
+        <UltimaConexion>2007-12-03T10:15:30</UltimaConexion>
+    </jugador>
+</jugadores>
